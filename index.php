@@ -7,8 +7,10 @@
     <script type="text/javascript" src="app.js"></script>
 </head>
 <body>
- <?php
-echo "<h1>Hola mundo.</h1>" 
-?>
+<?php  
+for ($x = 0; $x <= 10; $x++) {
+  echo "The number is: $x <br>";
+}
+?> 
 </body>
 </html>
