@@ -8,8 +8,8 @@
 </head>
 <body>
 <?php  
-for ($x = 0; $x <= 10; $x++) {
-  echo "Hola mundo : $x <br>";
+for ($x = 10; $x <= 20; $x++) {
+  echo "Hola : $x <br>";
 }
 ?> 
 </body>
