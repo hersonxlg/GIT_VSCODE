@@ -11,7 +11,7 @@
 <body>
   <?php  
     for ($x = 10; $x <= 20; $x++) {
-      echo "Hola : $x <br>";
+      echo "<h2>Hola : $x </h2>";
     }
   ?>
 </body>
